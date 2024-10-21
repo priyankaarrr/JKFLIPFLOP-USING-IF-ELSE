@@ -72,8 +72,6 @@ end
 endmodule
 
 
-
-
 **RTL LOGIC FOR FLIPFLOPS**
 ![Screenshot 2024-10-21 104341](https://github.com/user-attachments/assets/08f6ef08-d1cc-4393-a2f9-15818ccc3245)
 
@@ -81,3 +79,4 @@ endmodule
 ![Screenshot 2024-10-21 104226](https://github.com/user-attachments/assets/27453b4a-1b3a-4a05-a3cd-15930dd2f2ca)
 
 **RESULTS**
+Thus code run successfully
