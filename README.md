@@ -37,6 +37,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 **PROGRAM**
+```
 module JK(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
     output reg q, qb;
@@ -70,6 +71,7 @@ else
 	end
 end	
 endmodule
+```
 
 
 **RTL LOGIC FOR FLIPFLOPS**
